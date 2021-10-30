@@ -33,3 +33,5 @@ membangun proyek-proyek pribadi mengguanakan Framework Django.
 ### Tahap VI
 * [CRUD](https://github.com/gurnitha/torang-bisa-apa)
 * [Form Styling](https://github.com/gurnitha/torang-bisa-apa)
+### Test link
+* [Pendahuluan](https://github.com/gurnitha/torang-bisa-apa/commits/main)
