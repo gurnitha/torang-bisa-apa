@@ -2,6 +2,18 @@
 
 TBA adalah aplikasi Show Case Anak-anak Kreatif Indonesia, dibangun menggunakan Fremework Django
 
+## Pendahuluan
+TBA adalah proyek pribadi saya setelah banyak tahun bejalar tentang web development
+sejak pensiun dari pekerjaan sebagai PNS di Kementerian Luar Negeri RI.
+
+Saya berharap akan dapat menyelesaikannya dalam waktu 2 bulan.
+Namun saya tidak yakin akan dapat menayangkannya di internet karena
+tidak memiliki sarana untuk membayar web-hosting maupun domainnya.
+
+Namun demikian, anak-anak Indonesia kreatif dapat menggunakan semua
+files ini sebagai referensi untuk mencoba melatih diri untuk
+membangun proyek-proyek pribadi mengguanakan Framework Django.
+
 
 ## Langkah-langkah Pembangunan TBA
 ### Tahap I
